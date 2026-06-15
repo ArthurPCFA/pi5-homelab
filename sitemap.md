@@ -2,6 +2,7 @@
 
     pi5-homelab/
     ├── README.md
+    ├── sitemap.md
     ├── docs/
     │   ├── architecture.md        # network diagram + interface map
     │   ├── services.md            # what runs where (ports, paths)
