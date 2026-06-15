@@ -1,0 +1,9 @@
+# OS noise
+.DS_Store
+*.swp
+
+# Never commit secrets or un-sanitized configs
+*.key
+*.pem
+secrets*
+*.local
